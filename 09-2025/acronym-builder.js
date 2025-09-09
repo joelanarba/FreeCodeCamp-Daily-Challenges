@@ -17,7 +17,7 @@ function buildAcronym(str) {
 
   arr.forEach((word, index) => {
     if (index !== 0 && ignoreWords.includes(word.toLowerCase())) {
-      return; // skip this word
+      return;
     }
     acronym.push(word[0].toUpperCase());
   });
