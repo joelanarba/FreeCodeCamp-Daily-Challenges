@@ -1,7 +1,7 @@
 /**
  * FreeCodeCamp Daily Coding Challenge (2025-09-09)
  * Problem: Reverse Sentence
- * Link: https://www.freecodecamp.org/learn/daily-coding-challenge/2025-09-11
+ * Link: https://www.freecodecamp.org/learn/daily-coding-challenge/2025-09-12
  *
  * Given a string of words, return a new string with the words in reverse order.
  * Rules:
