@@ -23,7 +23,7 @@
  *  Output: ["Sync or Swim", "Earbud Blues"]
  */
 
-function favoriteSongs(playlist) {
+function favoriteSongs2(playlist) {
   let first = { title: "", plays: -1 };
   let second = { title: "", plays: -1 };
 
